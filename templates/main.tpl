@@ -20,7 +20,7 @@
                                             <div class="product-box spacer">
                                                 <div class="browseImage">
                                                     <div class="new"></div>
-                                                    <a href="index.php?car1" class="img2"><img src="images/product18_resized.png" alt="product18" class="browseProductImage featuredProductImage" border="0" /></a>
+                                                    <a href="index.php?car1" class="img2"><img src="images/products/product18_resized.png" alt="product18" class="browseProductImage featuredProductImage" border="0" /></a>
                                                 </div>
                                                 <div class="fleft">
                                                     <div class="Title">
@@ -68,7 +68,7 @@
                                             <div class="product-box spacer">
                                                 <div class="browseImage">
                                                     <div class="new"></div>
-                                                    <a href="index.php?car1" class="img2"><img src="images/product24_resized.png" alt="product24" class="browseProductImage featuredProductImage" border="0" /></a>
+                                                    <a href="index.php?car1" class="img2"><img src="images/products/product24_resized.png" alt="product24" class="browseProductImage featuredProductImage" border="0" /></a>
                                                 </div>
                                                 <div class="fleft">
                                                     <div class="Title">
@@ -110,7 +110,7 @@
                                             <div class="product-box spacer">
                                                 <div class="browseImage">
                                                     <div class="new"></div>
-                                                    <a href="index.php?car1" class="img2"><img src="images/product01_resized.png" alt="product01" class="browseProductImage featuredProductImage" border="0" /></a>
+                                                    <a href="index.php?car1" class="img2"><img src="images/products/product01_resized.png" alt="product01" class="browseProductImage featuredProductImage" border="0" /></a>
                                                 </div>
                                                 <div class="fleft">
                                                     <div class="Title">
@@ -151,7 +151,7 @@
                                             <div class="product-box spacer">
                                                 <div class="browseImage">
                                                     <div class="new"></div>
-                                                    <a href="index.php?car1" class="img2"><img src="images/product20_resized.png" alt="product20" class="browseProductImage featuredProductImage" border="0" /></a>
+                                                    <a href="index.php?car1" class="img2"><img src="images/products/product20_resized.png" alt="product20" class="browseProductImage featuredProductImage" border="0" /></a>
                                                 </div>
                                                 <div class="fleft">
                                                     <div class="Title">
@@ -197,7 +197,7 @@
                                             <div class="product-box spacer">
                                                 <div class="browseImage">
                                                     <div class="new"></div>
-                                                    <a href="index.php?car1" class="img2"><img src="images/product23_resized.png" alt="product23" class="browseProductImage featuredProductImage" border="0" /></a>
+                                                    <a href="index.php?car1" class="img2"><img src="images/products/product23_resized.png" alt="product23" class="browseProductImage featuredProductImage" border="0" /></a>
                                                 </div>
                                                 <div class="fleft">
                                                     <div class="Title">
@@ -243,7 +243,7 @@
                                             <div class="product-box spacer">
                                                 <div class="browseImage">
                                                     <div class="new"></div>
-                                                    <a href="index.php?car1" class="img2"><img src="images/product14_resized.png" alt="product14" class="browseProductImage featuredProductImage" border="0" /></a>
+                                                    <a href="index.php?car1" class="img2"><img src="images/products/product14_resized.png" alt="product14" class="browseProductImage featuredProductImage" border="0" /></a>
                                                 </div>
                                                 <div class="fleft">
                                                     <div class="Title">
