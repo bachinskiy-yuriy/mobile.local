@@ -7,6 +7,6 @@
     if(isset($_GET["faq"])) $page = file_get_contents("templates/faq.tpl");      
     if(isset($_GET["contact"])) $page = file_get_contents("templates/contact.tpl");      
     if(!isset($page)) $page = file_get_contents("templates/main.tpl");
-    $template = str_replace("%%content%%", $page, $template);
+    // $template = str_replace("%%content%%", $page, $template);
     echo $template;
 ?>
